@@ -1,3 +1,15 @@
+## How to Run
+
+In Terminal:
+
+npm install
+npm start
+npm run server
+
+Visit in your web-browser:
+
+http://localhost:3000
+
 ## Scenario
 
 We want to render a list of tasks in React + Redux with
